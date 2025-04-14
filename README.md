@@ -1,7 +1,7 @@
 # HR_Analytics_Dashboard
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition within an organization, offering insights across multiple dimensions
 ## Key Metrics:
-Total Employees: 882
+Total Employees: 882 <br>
 Attrition Count: 150
 Attrition Rate: 17%
 Average Age: 37
