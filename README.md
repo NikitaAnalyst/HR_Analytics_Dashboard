@@ -41,6 +41,7 @@ Scalable Design: Built in Power BI with modular visuals, easily extendable to in
 
 ## Repository Structure
 Data: https://github.com/NikitaAnalyst/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Data.csv <br/>
-Dashboard:
+Dashboard: https://github.com/NikitaAnalyst/HR_Analytics_Dashboard/blob/main/HR%20Analytics.pbix <br/>
+Image : https://github.com/NikitaAnalyst/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashboard.PNG
 
 
